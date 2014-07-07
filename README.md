@@ -1,4 +1,4 @@
-Panacea Mobile Public Push Application Demo
+Panacea Public Push Application Demo
 =================
 
 This is a demo of how to handle push notifications from the Panacea app and service.
@@ -12,3 +12,11 @@ Once you have installed it - you can then create your applications with API keys
 To use your newly installed demo as the notification URL for your API key, make sure you point the notification URL to http://yourserver.com/demo-app-path/process-notifications
 
 Good luck! Contact support@panaceamobile.com if you need assistance.
+
+Apps can be downloaded at:
+
+Android: https://play.google.com/store/apps/details?id=com.panaceamobile.panacea
+
+iOS: https://itunes.apple.com/us/app/panacea/id883987895
+
+
